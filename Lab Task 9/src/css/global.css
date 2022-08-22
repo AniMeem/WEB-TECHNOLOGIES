@@ -1,0 +1,23 @@
+body {
+  background-color: #2b2b2b;
+  color: whitesmoke;
+  font-family: "roboto";
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  background-color: #3d3d3d;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #3d3d3d;
+}
+
+main {
+  height: 849px;
+}
